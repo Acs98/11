@@ -1,0 +1,12 @@
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\bin\Debug\Practica_11.exe.config
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\bin\Debug\Practica_11.exe
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\bin\Debug\Practica_11.pdb
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\obj\Debug\Practica_11.csprojResolveAssemblyReference.cache
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\obj\Debug\Practica_11.Form1.resources
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\obj\Debug\Practica_11.Properties.Resources.resources
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\obj\Debug\Practica_11.csproj.GenerateResource.Cache
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\obj\Debug\Practica_11.csproj.CoreCompileInputs.cache
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\obj\Debug\Practica_11.exe
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\obj\Debug\Practica_11.pdb
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\bin\Debug\Practica11Libreria.dll
+C:\Users\axel__000\source\repos\Practica_11\Practica_11\bin\Debug\Practica11Libreria.pdb

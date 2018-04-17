@@ -1,0 +1,6 @@
+C:\Users\axel__000\source\repos\Practica_11\Practica11Libreria\bin\Debug\Practica11Libreria.dll
+C:\Users\axel__000\source\repos\Practica_11\Practica11Libreria\bin\Debug\Practica11Libreria.pdb
+C:\Users\axel__000\source\repos\Practica_11\Practica11Libreria\obj\Debug\Practica11Libreria.csprojResolveAssemblyReference.cache
+C:\Users\axel__000\source\repos\Practica_11\Practica11Libreria\obj\Debug\Practica11Libreria.csproj.CoreCompileInputs.cache
+C:\Users\axel__000\source\repos\Practica_11\Practica11Libreria\obj\Debug\Practica11Libreria.dll
+C:\Users\axel__000\source\repos\Practica_11\Practica11Libreria\obj\Debug\Practica11Libreria.pdb
